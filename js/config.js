@@ -1,6 +1,6 @@
 config = {
   "logo": "../os/images/icon/logo.png",
-  "name": "OpenSourceHub",
+  "name": "GuideHub",
   "nav": "Y",
   "filter": "N",
   "data": "",
