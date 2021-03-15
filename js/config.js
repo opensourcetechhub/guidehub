@@ -7,7 +7,7 @@ config = {
   "section": ""
 };
 
-section: [ {
+sections : [ {
   "id" : "fw",
   "name" : "Frameworks",
   "state" : "active"
@@ -19,7 +19,7 @@ section: [ {
   "name" : "Tools"
 } ]
 
-data : [ {
+widgets : [ {
   "section": "fw",
   "id": "spring",
   "name": "Spring",
