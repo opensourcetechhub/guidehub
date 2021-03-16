@@ -25,7 +25,7 @@ widgets = [ {
   "name": "Spring",
   "desc": "",
   "type": "preview",
-  "1cover": "https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg",
+  "cover": "https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg",
   "link": "https://spring.io/guides",
   "size": "12"
 }, {
@@ -34,7 +34,7 @@ widgets = [ {
   "name": "Hibernate",
   "desc": "",
   "type": "preview",
-  "1cover": "https://design.jboss.org/hibernate/logo/final/hibernate_icon_whitebkg_256px.png",
+  "cover": "https://design.jboss.org/hibernate/logo/final/hibernate_icon_whitebkg_256px.png",
   "link": "https://hibernate.org",
   "size": "12"
 } ];
