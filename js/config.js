@@ -7,7 +7,7 @@ config = {
   "section": ""
 };
 
-sections : [ {
+sections = [ {
   "id" : "fw",
   "name" : "Frameworks",
   "state" : "active"
@@ -17,9 +17,9 @@ sections : [ {
 }, {
   "id" : "tool",
   "name" : "Tools"
-} ]
+} ];
 
-widgets : [ {
+widgets = [ {
   "section": "fw",
   "id": "spring",
   "name": "Spring",
@@ -37,4 +37,4 @@ widgets : [ {
   "1cover": "https://design.jboss.org/hibernate/logo/final/hibernate_icon_whitebkg_256px.png",
   "link": "https://hibernate.org",
   "size": "12"
-} ]
+} ];
